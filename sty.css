@@ -1,0 +1,15 @@
+.parent{
+    background-color: red;
+    height: 100vh;
+    width: 100vw;
+    
+}
+.child{
+    height:300px;
+    width: 300px;
+    background-color: yellow;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    position:absolute;
+}
